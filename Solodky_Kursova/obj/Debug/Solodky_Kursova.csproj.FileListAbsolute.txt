@@ -1,0 +1,17 @@
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\bin\Debug\Solodky_Kursova.exe.config
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\bin\Debug\Solodky_Kursova.exe
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\bin\Debug\Solodky_Kursova.pdb
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.csprojResolveAssemblyReference.cache
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.Form1.resources
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.Properties.Resources.resources
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.csproj.GenerateResource.Cache
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.exe
+D:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.pdb
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\bin\Debug\Solodky_Kursova.exe.config
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.exe
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.pdb
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\bin\Debug\Solodky_Kursova.exe
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\bin\Debug\Solodky_Kursova.pdb
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.Form1.resources
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.Properties.Resources.resources
+E:\КУРСОВІ\Solodky_Kursova\Solodky_Kursova\obj\Debug\Solodky_Kursova.csproj.GenerateResource.Cache
